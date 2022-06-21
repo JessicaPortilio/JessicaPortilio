@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Jessica Portilio
 
 
-- 🔭 Hoje eu curso Sistemas de Informação na UFS
-- 🌱 Estudante Machine Learning e Data Science
+- 🔭 Curso Sistemas de Informação na UFS
+- 🌱 Estudando Machine Learning e Data Science
 - 😄 Pronouns: ela/dela
 
 <div align="center">
